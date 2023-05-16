@@ -23,6 +23,4 @@ This tool is written in AppleScript. It will spam your friend with unlimited amo
 1. You will see a popup windows. Input there all info it requires. (If you dismiss the window, it will crash)
 2. You will see sent message in `terminal window` or directly in **iMessage**
 
-:::success
-:thumbsup: Thanks For Using!
-:::
+<h4 align="center">:thumbsup: Thanks For Using!</h4>
