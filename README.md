@@ -14,6 +14,11 @@ This tool is written in AppleScript. It will spam your friend with unlimited amo
 2. Move the file on desktop(Or where you can find it easily).
 3. Open `terminal` and `cd` to the directory.
 4. Run `osascript nuke.applescript`
-5. Done.
+5. It will open your **iMessage**
+6. Done.
 
 ----
+
+## How To Use
+1. You will see a popup windows. Input there all info it requires. (If you dismiss the window, it will crash)
+2. You will see sent message in `terminal window` or directly in **iMessage**
